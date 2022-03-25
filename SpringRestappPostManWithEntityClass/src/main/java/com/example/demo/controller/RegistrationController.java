@@ -34,7 +34,7 @@ public class RegistrationController {
 		return ri.addUser(reg);
 	}
 	//for all data purpose
-	@GetMapping("/list")
+	@GetMapping("/list1")
 	public List<Registration> getList(){
 		return ri.getList();
 	}
