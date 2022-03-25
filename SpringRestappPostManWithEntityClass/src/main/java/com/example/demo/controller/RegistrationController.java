@@ -27,7 +27,7 @@ public class RegistrationController {
 	}
 	
 	//for insert purpose
-	@PostMapping("/add") 
+	@PostMapping("/dev") 
 	public Registration addUser(@RequestBody Registration reg) {
 		
 		return ri.addUser(reg);
