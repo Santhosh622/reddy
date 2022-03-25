@@ -26,6 +26,7 @@ public class RegistrationController {
 		return "welcome To Spring Boot Application";
 	}
 	
+	//Non-prod
 	//for insert purpose
 	@PostMapping("/add") 
 	public Registration addUser(@RequestBody Registration reg) {
