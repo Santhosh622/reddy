@@ -10,7 +10,7 @@ import com.example.demo.beans.Registration;
 
 @Repository
 public interface RegistrationInterface extends JpaRepository<Registration, Integer> {
-	
+	//
 	//@Query("select uname,email from registration where uname=:name")
 	public List<Registration> findByRname(String name);
 	
