@@ -16,6 +16,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @Entity
 @Table(name="registration")
+//////
 //reddy
 public class Registration {
 	@Id
