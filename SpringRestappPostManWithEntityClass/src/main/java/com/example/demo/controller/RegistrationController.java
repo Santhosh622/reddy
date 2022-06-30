@@ -18,6 +18,7 @@ import com.example.demo.service.RegistrationServiceImpl;
 @RestController
 public class RegistrationController {
 	
+	//////////
 	@Autowired
 	private RegistrationServiceImpl ri;
 	
