@@ -14,8 +14,5 @@ public interface RegistrationServicenterface {
 
 	//addsubdiv
 
-//123
 
-//bjhdhfjfdbbdh
-//jj
 }
