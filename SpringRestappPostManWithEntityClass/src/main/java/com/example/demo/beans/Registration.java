@@ -29,6 +29,6 @@ public class Registration {
 	private String  remail;
 	@Column(name="PHONENUMBER")
 	private Long rphone;
-	
+	//
 
 }
