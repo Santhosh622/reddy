@@ -10,4 +10,5 @@ public interface RegistrationServicenterface {
 	//add
 	//sub
 	//div
+	//mul
 }
