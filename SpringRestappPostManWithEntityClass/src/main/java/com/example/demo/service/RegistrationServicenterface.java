@@ -9,4 +9,5 @@ public interface RegistrationServicenterface {
 	public Registration addUser(Registration reg);
 	//add
 	//sub
+	//div
 }
