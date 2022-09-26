@@ -21,7 +21,7 @@ public class RegistrationController {
 	
 	private RegistrationServiceImpl ri;
 	
-	//santhosh dev changes
+
 	
 	@GetMapping("/")
 	public String welcome() {
