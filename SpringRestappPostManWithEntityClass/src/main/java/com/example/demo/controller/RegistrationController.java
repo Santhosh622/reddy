@@ -12,9 +12,9 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.example.demo.beans.Registration;
-import com.example.demo.beans.RegistrationModel;
-import com.example.demo.service.RegistrationServiceImpl;
 
+import com.example.demo.service.RegistrationServiceImpl;
+//@RestController
 @RestController
 public class RegistrationController {
 	
