@@ -18,6 +18,7 @@ import com.example.demo.service.RegistrationServiceImpl;
 @RestController
 public class RegistrationController {
 	
+	//////////
 	@Autowired
 	private RegistrationServiceImpl ri;
 	
@@ -26,6 +27,7 @@ public class RegistrationController {
 		return "welcome To Spring Boot Application";
 	}
 	
+	//Non-prod
 	//for insert purpose
 	@PostMapping("/add") 
 	public Registration addUser(@RequestBody Registration reg) {
