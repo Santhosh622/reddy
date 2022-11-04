@@ -1,5 +1,5 @@
 package com.example.demo.beans;
-/////
+/////Ashok
 /////main
 import javax.persistence.Column;
 import javax.persistence.Entity;
