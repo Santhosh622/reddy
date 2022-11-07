@@ -23,8 +23,15 @@ import lombok.NoArgsConstructor;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
+
 //dfg
 //dfgh
+
+//dfghj
+//dfghj
+//fdsghj
+//fdghjk
+
 @Entity
 @Table(name="registration")
 public class Registration {
