@@ -16,6 +16,18 @@ import lombok.NoArgsConstructor;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
+<<<<<<< Updated upstream
+=======
+
+//dfg
+//dfgh
+
+//dfghj
+//dfghj
+//fdsghj
+//fdghjk
+//branchchange
+>>>>>>> Stashed changes
 @Entity
 @Table(name="registration")
 //////
