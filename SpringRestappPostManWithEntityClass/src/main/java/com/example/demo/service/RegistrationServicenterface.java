@@ -6,5 +6,7 @@ import com.example.demo.beans.RegistrationModel;
 public interface RegistrationServicenterface {
 //	public RegistrationModel insert(String ename, String pass, String email, long phoneNo);
 /////////////////////////////
+	////////////////////////////
+	/////////////////////////
 	public Registration addUser(Registration reg);
 }
