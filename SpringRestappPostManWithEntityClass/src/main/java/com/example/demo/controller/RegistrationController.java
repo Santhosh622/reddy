@@ -17,7 +17,12 @@ import com.example.demo.service.RegistrationServiceImpl;
 
 @RestController
 public class RegistrationController {
-	
+	///////qqq///
+	///qqww
+	///qwwew
+	///qwewe
+	/////sadfag/
+	////gafasdeerer
 	//////////
 	@Autowired
 	private RegistrationServiceImpl ri;
