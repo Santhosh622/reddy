@@ -8,6 +8,10 @@ package com.example.demo.beans;
 //1234567788999
 import javax.persistence.Column;
 import javax.persistence.Entity;
+/////////////////////////////
+///////////////////////////
+///////////////////////
+//////////////////////////
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
