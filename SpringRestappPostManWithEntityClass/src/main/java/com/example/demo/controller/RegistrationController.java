@@ -1,14 +1,6 @@
 package com.example.demo.controller;
 
-sdfzxgdsDfzxgdzgh
-dszfxgcbhjk
-drxtchjk
 
-////
-/////
-/////
-////
->>>>>>> stash
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -30,7 +22,9 @@ public class RegistrationController {
 //devdev
 	private RegistrationServiceImpl ri;
 	
-
+jdhdfhjdfhdf
+	fsddfdsfdsdffd
+	fddfdffdfddffd
 	
 	@GetMapping("/")
 	public String welcome() {
