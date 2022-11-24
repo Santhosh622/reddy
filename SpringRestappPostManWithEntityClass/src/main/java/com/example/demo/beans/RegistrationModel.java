@@ -5,7 +5,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 /////////Non_Prod
-/////model
+
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
