@@ -22,22 +22,14 @@ public class RegistrationController {
 //devdev
 	private RegistrationServiceImpl ri;
 	
-jdhdfhjdfhdf
-	fsddfdsfdsdffd
-	fddfdffdfddffd
+
 	
 	@GetMapping("/")
 	public String welcome() {
 		return "welcome To Spring Boot Application";
 	}
 	
-	//dev
-	//for insert purpose
-	@PostMapping("/insert1") 
-	public Registration addUser(@RequestBody Registration reg) {
-		
-		return ri.addUser(reg);
-	}
+	
 	//for all data purpose
 	@GetMapping("/list1")
 	public List<Registration> getList(){
