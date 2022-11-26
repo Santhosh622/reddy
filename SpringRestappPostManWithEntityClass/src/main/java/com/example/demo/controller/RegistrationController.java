@@ -24,14 +24,14 @@ public class RegistrationController {
 	
 
 	
-	@GetMapping("/")
+	@GetMapping("/welcome")
 	public String welcome() {
 		return "welcome To Spring Boot Application";
 	}
 	
 	
 	//for all data purpose
-	@GetMapping("/list1")
+	@GetMapping("/lists")
 	public List<Registration> getList(){
 		return ri.getList();
 	}
