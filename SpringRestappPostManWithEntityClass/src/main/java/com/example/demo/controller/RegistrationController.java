@@ -1,10 +1,7 @@
 package com.example.demo.controller;
-<<<<<<< Updated upstream
 
-
-=======
 //git bash
->>>>>>> Stashed changes
+
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
