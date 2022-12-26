@@ -9,6 +9,7 @@ import com.example.demo.beans.Registration;
 
 import com.example.demo.dao.RegistrationInterface;
 
+//@Service
 @Service
 public class RegistrationServiceImpl implements RegistrationServicenterface {
 	

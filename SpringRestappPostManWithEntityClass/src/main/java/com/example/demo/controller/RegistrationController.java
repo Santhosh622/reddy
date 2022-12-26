@@ -15,13 +15,15 @@ import org.springframework.web.bind.annotation.RestController;
 import com.example.demo.beans.Registration;
 
 import com.example.demo.service.RegistrationServiceImpl;
-
+//@RestController
 @RestController
 public class RegistrationController {
 	
-
+//devdev
 	private RegistrationServiceImpl ri;
-		//newly added
+	
+
+	
 	@GetMapping("/welcome")
 	public String welcome() {
 		return "welcome To Spring Boot Application";
