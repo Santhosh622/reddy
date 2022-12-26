@@ -1,10 +1,15 @@
 package com.example.demo.beans;
+<<<<<<< Updated upstream
 ///dev
 ////dev1
 ////dev2
 ////dev3
 ///dev4
 ///dev5
+=======
+//git bash
+/////main
+>>>>>>> Stashed changes
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
